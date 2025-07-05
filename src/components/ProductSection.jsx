@@ -21,7 +21,7 @@ const ProductSection = () => {
       <div className="flex flex-wrap justify-center gap-10 my-10">
         {products.map((product, index) => (
           <AnimatedContent key={index} duration={1.5}>
-            <div className="bg-white w-lg md:w-xl lg:w-2xl rounded-xl p-6 flex flex-col h-full">
+            <div className="bg-white w-72 md:w-96 lg:w-[28rem] rounded-xl p-6 flex flex-col h-full">
               <div className="w-full h-64 md:h-72 lg:h-80">
                 <img
                   src={product.image}
