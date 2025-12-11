@@ -1,12 +1,31 @@
-# React + Vite
+# Tanami-Landing-Page 🌿
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Deskripsi  
+Tanami-Landing-Page adalah sebuah halaman landing statis (landing page) yang dibuat untuk kebutuhan promosi/marketing — bisa untuk produk, brand, proyek, atau layanan. Halaman ini dibuat dengan HTML/CSS/JS serta React dan Tailwind untuk memberikan tampilan menarik, responsif, dan profesional tanpa backend kompleks.
 
-Currently, two official plugins are available:
+## Fitur / Keunggulan  
+- 🖼️ Halaman statis dengan desain modern dan clean — cocok sebagai halaman promosi / info.  
+- 🌐 Responsif — dioptimalkan agar tampil baik pada desktop, tablet, dan mobile.  
+- ✅ Ringan — karena hanya statis, halaman mudah diload dan relatif cepat.  
+- 📂 Struktur sederhana — cocok untuk dipakai sebagai base-template landing page atau starter project.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Teknologi / Stack  
+Tergantung implementasi di repo, misalnya:  
+- HTML, CSS, JavaScript  
+- React dan Tailwind  
+- Struktur file sederhana sesuai project statis  
 
-## Expanding the ESLint configuration
+## Cara Menggunakan / Deploy  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+1. Clone repository  
+   ```bash
+   git clone https://github.com/alifnaufal-zaqi/Tanami-Landing-Page.git
+2. Pindah ke folder proyek
+   ```bash
+   cd Tanami-Landing-Page
+3. Instal Depedencies
+   ```bash
+   npm install
+4. Jalankan Proyek
+   ```bash
+   npm run dev
